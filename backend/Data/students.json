@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1794365011954",
+    "name": "Test Student",
+    "email": "student@example.com",
+    "contact": "0211234567",
+    "gender": "Male",
+    "password": "$2b$10$Utq.jEVAE7W3zziGLRUyq.UBCWVC71c75C43vD5JdVZC4yY24AMgG"
+  },
+  {
+    "id": "2cc9e7cf-fd4c-4f0b-a682-fac170c4c97d",
+    "name": "Test Student Two",
+    "email": "student2@example.com",
+    "contact": "9458674568885",
+    "gender": "Male",
+    "password": "$2b$10$E/dr0v1GNtPzsNWOnfvUYeTGb0cBkEZvs9wt1q/mdJ/7YF29hPbHC"
+  },
+  {
+    "id": "7aef0311-bbc1-427b-b9f2-ab5c8ee8757d",
+    "name": "Jaat",
+    "email": "jaa3t@gmail.com",
+    "contact": "4635934875647",
+    "gender": "Male",
+    "password": "$2b$10$McSyI0.AvbDlVQiWBpq97.Tga2eglJSfj8W2BiVr2.Cgq.4mA2XQ6"
+  }
+]
